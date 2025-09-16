@@ -1,7 +1,7 @@
 # Fullstack Todo List App
 
 Creating a Fullstack Todo List
-(HTML, CSS, JS, NodeJS, ExpressJS)
+(HTML, CSS, JS, NodeJS, ExpressJS, MongoDB)
 
 Features:
 
